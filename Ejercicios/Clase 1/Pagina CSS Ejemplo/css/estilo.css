@@ -1,0 +1,33 @@
+h1{
+	color:blue;
+}
+
+body{
+	font-family: Verdana, sans-serif;
+}
+
+table {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+tr:nth-child(even){
+	background: #AAAAFF;
+}
+tr:nth-child(odd){
+	background-color: brown;
+}
+th{
+	background: #aaa;
+	border: 1px solid #000;
+}
+td{
+	border: 1px solid #000;
+}
+.centrada{
+	background: red;
+	align-content: center;
+}
+#TITULO1{
+	background: green;
+}

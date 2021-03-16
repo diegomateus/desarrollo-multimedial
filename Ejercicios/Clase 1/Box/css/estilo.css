@@ -1,0 +1,21 @@
+#uno{
+    border: 1px solid black;
+    color: red;
+}
+
+#dos{
+    border: 1px dotted black;
+    color: green;
+}
+
+span{
+    border: red 1px solid;
+}
+
+div{
+    margin: 15px;
+    padding: 20px;
+}
+#tres{
+    padding: -20px;
+}
